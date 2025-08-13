@@ -2,7 +2,7 @@
 
 Comandos Utilizados
 
-Aqui está a explicação resumida de cada comando:
+Aqui está a explicação resumida de cada comando para integrar diretórios locais com remoto no GitHub.
 
 echo "# DiferencaIdade" >> README.md
 → Cria um arquivo README.md com o texto # DiferencaIdade (um título em Markdown).
